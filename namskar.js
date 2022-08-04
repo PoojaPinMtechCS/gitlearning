@@ -1,1 +1,1 @@
-console.log('namsakar v2');
+console.log('namsakar');
