@@ -1,1 +1,4 @@
-print('hello to all')
+print('hello')
+a=10
+b=20
+print(a+b)

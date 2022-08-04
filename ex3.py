@@ -1,1 +1,1 @@
-print('addition of two number')
+print('add')

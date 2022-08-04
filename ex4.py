@@ -1,1 +1,1 @@
-print('sub of two number')
+print('sub')
