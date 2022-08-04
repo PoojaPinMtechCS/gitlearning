@@ -1,1 +1,1 @@
-print('hello world')
+print('multiplication of two number')
